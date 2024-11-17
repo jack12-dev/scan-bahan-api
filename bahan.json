@@ -1,0 +1,21 @@
+[
+    {
+        "id": 1,
+        "nama": "Gula",
+        "jenis": "Bahan Makanan",
+        "deskripsi": "Digunakan sebagai pemanis dalam makanan dan minuman."
+    },
+    {
+        "id": 2,
+        "nama": "Tepung Terigu",
+        "jenis": "Bahan Makanan",
+        "deskripsi": "Digunakan sebagai bahan utama dalam pembuatan roti dan kue."
+    },
+    {
+        "id": 3,
+        "nama": "Garam",
+        "jenis": "Bumbu",
+        "deskripsi": "Diperlukan dalam berbagai jenis masakan untuk menambah cita rasa."
+    }
+
+]
